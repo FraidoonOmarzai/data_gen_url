@@ -7,3 +7,8 @@
 - Use OpenAI Embedding
 - Use vectordb (FAISS)
 - Use LLM Model (OpenAI_API)
+
+
+```bash
+conda activate langchain
+```
